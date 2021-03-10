@@ -67,16 +67,17 @@ nav li, footer li {
     margin: 2vw;
     width: 570px;
     height: 45px;
-    border: .6px solid gray;
+    border: .6px solid rgb(199, 199, 199);
     border-radius: 25px;
 }
 .search:hover {
     box-shadow: 0 1px 6px 0 rgb(32 33 36 / 28%);
 }
 .search input {
-    width: 350px;
+    width: 488px;
     border: none;
     outline: none;
+    font-size: 1.8rem;
 }
 .search::before {
     content: "🔍";
