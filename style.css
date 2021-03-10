@@ -141,10 +141,10 @@ footer {
     padding: 1.2vw;
     font-size: 1.6rem;
     background: #f2f2f2;
-    color: #5f6368;
 }
 footer a {
     padding: 0 .6vw;
+    color: #5f6368;
 }
 footer a:link {
     text-decoration: none;
